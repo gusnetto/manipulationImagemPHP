@@ -2,8 +2,7 @@
  
  // conf memory limit 
 
-ini_set("memory_limit","64M");  
-
+//APPLICATION_PATH . '/config/app.ini';
 
 // Constante
 define('DIR_IMAGE', 'images/');
